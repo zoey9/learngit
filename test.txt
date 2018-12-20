@@ -6,3 +6,4 @@ the fifth commit
  checkout 1.
  checkout 2.
 push 1
+push 2
